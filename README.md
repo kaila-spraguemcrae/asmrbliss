@@ -21,6 +21,10 @@ _This is our project for Epicodus' final week of Javascript: Team Week. The goal
 - put on your headphones for best sound expierence
 - [Click to open active site in Github]) (https://ebezjian.github.io/asmrbliss/) Or simply paste the following url into your prefered browser https://ebezjian.github.io/asmrbliss/
 
+* please note that there has been some connection errors with the repo after the project was pushed to gh-pages. To fix this problem with your cloned local repo you will need to remove the gh-pages dependencies and scripts from the package.json file as well as remove the public path from the webpack.config.js file. I have gone ahead and updated the main branch webpack and package files. 
+
+
+
 ## Specifications
 
 <details>
