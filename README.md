@@ -60,7 +60,7 @@ _3.) World Domination._
 
 _4.) Buy Amazon button the cuts to partying with Tom Haverford._
 
-- ![tom](https://i.pinimg.com/originals/93/0c/c0/930cc071d0f4593bc1275d37a74e3f49.gif)
+![tom](https://i.pinimg.com/originals/93/0c/c0/930cc071d0f4593bc1275d37a74e3f49.gif)
 
 ## 🐛 Bugs
 
